@@ -14,6 +14,13 @@ In this practice project, you'll create your own Role Playing Game (RPG) to lear
 - **If/Else Statements**: Implementing decision-making logic.
 - And more.
 
+## Objectives
+
+By completing this project, you will gain experience in:
+- Basic JavaScript syntax and programming logic.
+- Structuring and organizing code for better readability and maintainability.
+- Applying JavaScript to create interactive and dynamic web applications.
+
 ## Getting Started
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine.
